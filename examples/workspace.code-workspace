@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "code-mc",
+			"path": "../../../mcpayment/code-mc"
+		},
+		{
+			"name": "dts-fe",
+			"path": "../../../MajapahitCode/Eksternal/termin3-2/dts-fe"
+		},
+		{
+			"name": "nest-back",
+			"path": "../../../website-personal/nest-back"
+		},
+		{
+			"name": "next-front",
+			"path": "../../../website-personal/next-front"
+		},
+		{
+			"name": "explore-literacy",
+			"path": "../../../website-personal/explore-literacy"
+		},
+		{
+			"path": "../../food-saas"
+		}
+	],
+	"settings": {}
+}
